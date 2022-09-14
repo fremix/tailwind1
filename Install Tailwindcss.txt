@@ -1,0 +1,49 @@
+1.- npm init -y
+2.- npm install -D tailwindcss
+3.- npx tailwindcss init
+4.- npx tailwindcss -i tailwind.css -o ./src/css/tailwind.css --watch
+5.- <link href="css/tailwind.css" rel="stylesheet">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
